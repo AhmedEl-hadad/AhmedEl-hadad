@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by Ahmed | Last updated: <!-- optional: embed last update timestamp --> </sub>
+  <sub>Built by Ahmed | Last updated: 10 / 17 / 2025 </sub>
 </p>
