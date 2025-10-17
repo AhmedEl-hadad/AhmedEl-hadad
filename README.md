@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/Dark%20Blue%20Holographic%20Twitter%20Header.png?raw=true" alt="Banner" />
+  <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
 <h1 align="center">Hello 👋, I’m **Ahmed El-Hadad**</h1>
@@ -12,13 +12,13 @@
 
 <p align="center">
   <!-- Dynamic cards from github-readme-stats -->
-  <a href="https://github.com/ahmed1ibrahim12">
+  <a href="https://github.com/AhmedEl-hadad">
     <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed1ibrahim12&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahmed1ibrahim12">
+  <a href="https://github.com/AhmedEl-hadad">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1ibrahim12&layout=compact&theme=radical" />
   </a>
 </p>
