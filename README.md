@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1aiiBHCQUMqpFxB11rKE8kEnsEgEWyy8h/view?usp=drive_link" alt="Banner" />
+  <img src="https://github.com/ahmed1ibrahim12/ahmed1ibrahim12/blob/main/Dark%20Blue%20Holographic%20Twitter%20Header.png?raw=true" alt="Banner" />
 </p>
 
 <h1 align="center">Hello 👋, I’m **Ahmed El-Hadad**</h1>
