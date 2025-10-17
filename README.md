@@ -13,19 +13,19 @@
 <p align="center">
   <!-- Dynamic cards from github-readme-stats -->
   <a href="https://github.com/AhmedEl-hadad">
-    <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed1ibrahim12&show_icons=true&theme=radical" />
+    <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AhmedEl-hadad">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1ibrahim12&layout=compact&theme=radical" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <!-- Streak card -->
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ahmed1ibrahim12&theme=radical" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AhmedEl-hadad&theme=radical" />
 </p>
 
 ---
