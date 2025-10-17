@@ -68,10 +68,10 @@
 
 ## 🎯 A Bit More About Me
 
-- 🔭 I’m currently building **Salla Merchants** — a merchant dashboard for an e-commerce platform  
-- 🌱 Learning & mastering **TypeScript** for stronger typing, better code quality  
-- 🤝 Always open to collaborating on React, front-end, or full-stack side projects  
-- ⚡ Fun Fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻  
+- 🔭 I’m currently building **Chatify (Chat APP)** — a Real-time chat using React + Firebase
+- 🌱 Learning & mastering **TypeScript** for stronger typing, better code quality
+- 🤝 Always open to collaborating on React, front-end, or full-stack side projects
+- ⚡ Fun Fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻
 
 ---
 
