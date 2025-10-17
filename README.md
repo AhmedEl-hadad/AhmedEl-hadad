@@ -35,10 +35,9 @@
 <!-- This section can be auto-generated via Action -->
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Salla Merchants** | E-commerce dashboard for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://github.com/ahmed1ibrahim12/salla-merchants) |
-| **Chatify (Chat APP)** | Real-time chat using React + Firebase | React, Firebase | [Repo](https://github.com/ahmed1ibrahim12/React-Chatify) |
-| **Project-3** | _Short description here_ | _Tech stack_ | [Repo](#) |
-| **Project-4** | … | … | [Repo](#) |
+| **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://AhmedEl-hadad.github.io/salla-merchants/) |
+| **Portfolio** | _Short description here_ | _Tech stack_ | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
+| **Chatify (Chat APP)** | currently working on a Real-time chat using React + Firebase | React, Firebase | [Repo](#) |
 
 > You can include a small thumbnail (100×100px) next to each project by embedding an `![thumb](url)` in the markdown cell.
 
@@ -46,7 +45,7 @@
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" /></a>
