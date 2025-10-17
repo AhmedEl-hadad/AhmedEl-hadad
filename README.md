@@ -35,7 +35,7 @@
 <!-- This section can be auto-generated via Action -->
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://AhmedEl-hadad.github.io/salla-merchants/) |
+| **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) |
 | **Portfolio** | _Short description here_ | _Tech stack_ | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
 | **Chatify (Chat APP)** | currently working on a Real-time chat using React + Firebase | React, Firebase | [Repo](#) |
 
