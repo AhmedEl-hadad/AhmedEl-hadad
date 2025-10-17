@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed1ibrahim12/ahmed1ibrahim12/main/assets/profile-header.svg" alt="Banner" />
+  <img src="https://drive.google.com/file/d/1aiiBHCQUMqpFxB11rKE8kEnsEgEWyy8h/view?usp=drive_link" alt="Banner" />
 </p>
 
 <h1 align="center">Hello 👋, I’m **Ahmed El-Hadad**</h1>
