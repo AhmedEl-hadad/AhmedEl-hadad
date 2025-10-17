@@ -39,8 +39,6 @@
 | **Portfolio** | _Short description here_ | _Tech stack_ | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
 | **Chatify (Chat APP)** | currently working on a Real-time chat using React + Firebase | React, Firebase | [Repo](#) |
 
-> You can include a small thumbnail (100×100px) next to each project by embedding an `![thumb](url)` in the markdown cell.
-
 ---
 
 ## 🛠️ Skills & Tools
