@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elhadad</h1>
-<h3 align="center">Front-end Developer | React & Tailwind Enthusiast</h3>
-
-- 🔭 I’m currently working on [Salla Merchants An e-commerce website using React and Tailwind CSS.](https://github.com/ahmed1ibrahim12/salla-merchants)
-
-- 🌱 I’m currently learning **TypeScriptto improve code quality and maintainability.**
-
-- 🤝 I’m looking for help with [Chat APP (React + Firebase)](https://github.com/ahmed1ibrahim12/React-Chatify)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed1ibrahim12](https://ae-portfolio-two.vercel.app/)
-
-- 💬 Ask me about **React.js, Tailwind CSS, git & GitHub**
-
-- 📫 How to reach me **ahmed1ibahim12@gmail.com**
-
-- ⚡ Fun fact **I started coding before I could grow a beard. Still waiting on the beard.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed1ibrahim12/ahmed1ibrahim12/main/assets/profile-header.svg" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hello 👋, I’m **Ahmed El-Hadad**</h1>
+<h3 align="center">Front-end Developer | React | TypeScript | Tailwind CSS</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed1ibrahim12&show_icons=true&locale=en&layout=compact" alt="ahmed1ibrahim12" /></p>
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <!-- Dynamic cards from github-readme-stats -->
+  <a href="https://github.com/ahmed1ibrahim12">
+    <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed1ibrahim12&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmed1ibrahim12">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1ibrahim12&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Streak card -->
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ahmed1ibrahim12&theme=radical" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<!-- This section can be auto-generated via Action -->
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Salla Merchants** | E-commerce dashboard for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://github.com/ahmed1ibrahim12/salla-merchants) |
+| **Chatify (Chat APP)** | Real-time chat using React + Firebase | React, Firebase | [Repo](https://github.com/ahmed1ibrahim12/React-Chatify) |
+| **Project-3** | _Short description here_ | _Tech stack_ | [Repo](#) |
+| **Project-4** | … | … | [Repo](#) |
+
+> You can include a small thumbnail (100×100px) next to each project by embedding an `![thumb](url)` in the markdown cell.
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" /></a>
+  <a href="https://developer.mozilla.org/js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" /></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" /></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" /></a>
+  <!-- add more as needed -->
+</p>
+
+---
+
+## 📬 Contact & Connect
+
+<p align="left">
+  <a href="mailto:ahmed1ibahim12@gmail.com"><img src="https://img.shields.io/badge/Email-%20Contact-C14438?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+---
+
+## 🎯 A Bit More About Me
+
+- 🔭 I’m currently building **Salla Merchants** — a merchant dashboard for an e-commerce platform  
+- 🌱 Learning & mastering **TypeScript** for stronger typing, better code quality  
+- 🤝 Always open to collaborating on React, front-end, or full-stack side projects  
+- ⚡ Fun Fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻  
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ by Ahmed | Last updated: <!-- optional: embed last update timestamp --> </sub>
+</p>
