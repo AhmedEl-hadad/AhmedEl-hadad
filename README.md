@@ -72,11 +72,23 @@
 ## 📬 Contact & Connect
 
 <p align="center">
-  <a href="mailto:ahmed1ibahim12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C14438?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-elhadad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/share/1A8zw6kimJ/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/ahmed_elhad0d_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:ahmed1ibahim12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-elhadad1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/1A8zw6kimJ/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/ahmed_elhad0d_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/Ahmed_Elhadad/">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
+
 
 ---
 
