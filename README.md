@@ -26,6 +26,8 @@
 <p align="center">
   <!-- Streak card -->
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AhmedEl-hadad&theme=radical" />
+  <!-- LeetCoed card -->  
+  <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
 </p>
 
 ---
@@ -57,7 +59,6 @@
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" style="margin: 10px;" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin: 10px;" /></a>
   <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" style="margin: 10px;" /></a>
-  <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
 </p>
 
 </p>
@@ -73,7 +74,6 @@
   <a href="https://www.linkedin.com/in/ahmed-elhadad1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/share/1A8zw6kimJ/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/ahmed_elhad0d_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  [![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Ahmed_Elhadad/)
 </p>
 
 ---
