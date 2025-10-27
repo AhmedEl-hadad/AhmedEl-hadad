@@ -18,6 +18,10 @@
 </p>
 
 <p align="center">
+  
+  <!-- LeetCoed card -->  
+  <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
+  <!--most used languages-->
   <a href="https://github.com/AhmedEl-hadad">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" />
   </a>
@@ -28,8 +32,6 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AhmedEl-hadad&theme=radical" />
 </p>
 <p align="center">
-  <!-- LeetCoed card -->  
-  <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
 </p>
 
 ---
