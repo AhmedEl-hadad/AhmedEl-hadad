@@ -18,10 +18,13 @@
 </p>
 
 <p align="center">
-    <!--most used languages-->
-    <a href="https://github.com/AhmedEl-hadad"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" /></a>
     <!-- LeetCoed card -->  
     <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
+</p>
+
+<p align="center">
+    <!--most used languages-->
+    <a href="https://github.com/AhmedEl-hadad"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" /></a>
 </p>
 
 <p align="center">
