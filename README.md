@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-elhadad1">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.facebook.com/share/1A8zw6kimJ/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
