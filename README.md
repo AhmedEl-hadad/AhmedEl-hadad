@@ -45,9 +45,9 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) |
+| **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) |
 | **Portfolio** | Personal portfolio to showcase projects & skills | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
-| **Chatify (Chat APP)** | Real-time chat app using React + Firebase | React, Firebase | [Repo](#) |
+| **BiB - Kids Clothes** | Kids Clothes Store | React, Tailwind, API | [Repo](https://github.com/AhmedEl-hadad/bib-kids-clothes) |
 
 ---
 
