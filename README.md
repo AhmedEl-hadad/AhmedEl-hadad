@@ -37,7 +37,6 @@
 
 <hr style="border: 0; height: 1px; background: #444; margin: 30px 0;" />
 
-<p align="center">
   <!-- Snake Game -->
  ###
 
