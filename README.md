@@ -3,7 +3,7 @@
   <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
-<h1 align="center">Hello 👋, I’m **Ahmed El-Hadad**</h1>
+<h1 align="center">Hello 👋, I’m <strong>Ahmed El-Hadad</strong></h1>
 <h3 align="center">Front-end Developer | React | TypeScript | Tailwind CSS</h3>
 
 ---
@@ -11,37 +11,51 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Dynamic cards from github-readme-stats -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/AhmedEl-hadad">
-    <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=radical" />
+    <img alt="Ahmed’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=radical" height="160"/>
+  </a>
+  <img width="12" />
+  <!-- Most Used Languages -->
+  <a href="https://github.com/AhmedEl-hadad">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" height="160"/>
   </a>
 </p>
 
 <p align="center">
-    <!-- LeetCoed card -->  
-    <a href="https://leetcode.com/u/Ahmed_Elhadad/"><img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" /></a>
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/u/Ahmed_Elhadad/">
+    <img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" style="margin: 20px 0;" />
+  </a>
 </p>
 
 <p align="center">
-    <!--most used languages-->
-    <a href="https://github.com/AhmedEl-hadad"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" /></a>
+  <!-- Streak + Trophies -->
+  <img src="https://streak-stats.demolab.com?user=AhmedEl-hadad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img width="12" />
+  <img src="https://github-profile-trophy.vercel.app?username=AhmedEl-hadad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </p>
 
+<hr style="border: 0; height: 1px; background: #444; margin: 30px 0;" />
+
 <p align="center">
-  <!-- Streak card -->
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AhmedEl-hadad&theme=radical" />
+  <!-- Pacman Contribution Game -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/pacman-contribution-graph.svg" width="600">
+  </picture>
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-<!-- This section can be auto-generated via Action -->
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind, API | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) |
-| **Portfolio** | _Short description here_ | _Tech stack_ | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
-| **Chatify (Chat APP)** | currently working on a Real-time chat using React + Firebase | React, Firebase | [Repo](#) |
+| **Portfolio** | Personal portfolio to showcase projects & skills | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
+| **Chatify (Chat APP)** | Real-time chat app using React + Firebase | React, Firebase | [Repo](#) |
 
 ---
 
@@ -75,11 +89,6 @@
   <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
 </div>
 
-
-</p>
-
-
-
 ---
 
 ## 📬 Contact & Connect
@@ -102,15 +111,14 @@
   </a>
 </p>
 
-
 ---
 
 ## 🎯 A Bit More About Me
 
-- 🔭 I’m currently building **Chatify (Chat APP)** — a Real-time chat using React + Firebase
-- 🌱 Learning & mastering **TypeScript** for stronger typing, better code quality
-- 🤝 Always open to collaborating on React, front-end, or full-stack side projects
-- ⚡ Fun Fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻
+- 🔭 I’m currently building **Chatify (Chat APP)** — a Real-time chat using React + Firebase  
+- 🌱 Learning & mastering **TypeScript** for stronger typing, better code quality  
+- 🤝 Always open to collaborating on React, front-end, or full-stack side projects  
+- ⚡ Fun Fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻  
 
 ---
 
