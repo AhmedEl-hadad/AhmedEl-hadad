@@ -95,16 +95,16 @@
 
 <p align="center">
   <a href="mailto:ahmed1ibahim12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-C14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-elhadad1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.facebook.com/share/1A8zw6kimJ/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/ahmed_elhad0d_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://leetcode.com/u/Ahmed_Elhadad/">
     <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
