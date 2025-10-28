@@ -115,11 +115,6 @@
 
 ---
 
-<p align="center">
-  <sub>Built by Ahmed | Last updated: 10 / 27 / 2025 </sub>
-</p>
-
-
 <div>
   <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=Built%20by%20Ahmed%20%7C%20Last%20updated:%2010%20/%2027%20/%202025&fontSize=12&fontColor=ffff&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
