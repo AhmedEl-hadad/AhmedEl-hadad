@@ -93,7 +93,7 @@
 
 ## 📬 Contact & Connect
 
-<p align="center">
+<div align="center">
   <a href="mailto:ahmed1ibahim12@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
@@ -109,7 +109,7 @@
   <a href="https://leetcode.com/u/Ahmed_Elhadad/">
     <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
+</div>
 
 ---
 
