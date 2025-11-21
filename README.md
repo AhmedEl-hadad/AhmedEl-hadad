@@ -47,7 +47,7 @@
 |---|---|---|---|
 | **Salla Merchants** | E-commerce Website for merchants using React & Tailwind | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) |
 | **Portfolio** | Personal portfolio to showcase projects & skills | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
-| **BiB - Kids Clothes** | Kids Clothes Store | React, Tailwind, API | [Repo](https://github.com/AhmedEl-hadad/bib-kids-clothes) |
+| **ArabicaAPI** | Arabic-friendly mock datasets | JSON | [Repo](https://github.com/AhmedEl-hadad/ArabicaAPI) |
 
 ---
 
