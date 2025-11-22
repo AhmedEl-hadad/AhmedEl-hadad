@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/banner.png?raw=true" alt="Banner" />
+  <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/thumbnail.png?raw=true" alt="Banner" />
 </p>
 
 <h1 align="center">Hello 👋, I’m <strong>Ahmed El-Hadad</strong></h1>
