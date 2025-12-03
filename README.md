@@ -39,7 +39,7 @@
 |:--------|:------------|:------|:-----|
 | **Salla Merchants** | E-commerce website for merchants built with React & Tailwind | React, Tailwind | [Repository](https://github.com/AhmedEl-hadad/salla-merchants/) |
 | **Portfolio** | Personal portfolio showcasing projects and skills | React, Tailwind | [Repository](https://github.com/AhmedEl-hadad/AE-Portfolio/) |
-| **ArabicaAPI** | Arabic-friendly mock datasets for UI prototyping and API simulations | JSON | [Repository](https://github.com/AhmedEl-hadad/ArabicaAPI) |
+| **Arabic Localization Helper** | A command-line tool that automatically translates English text to Arabic in your project files | Typescript | [Repository](https://github.com/AhmedEl-hadad/Arabic-Localization-Helper) |
 
 </div>
 
@@ -105,7 +105,7 @@
 
 ## 🎯 A Bit More About Me
 
-- 🔭 I'm currently building **Chatify (Chat APP)** — a real-time chat application using React + Firebase
+- 🔭 I'm currently building **Arabic Localization Helper** — A command-line tool that automatically translates English text to Arabic in your project files
 - 🌱 Learning and mastering **TypeScript** for stronger typing and better code quality
 - 🤝 Always open to collaborating on React, front-end, or full-stack side projects
 - ⚡ Fun fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻
