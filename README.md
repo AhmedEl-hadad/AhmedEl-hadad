@@ -60,20 +60,6 @@ const currentProjects = {
 ```
 
 </div>
-
----
-
-## 🎓 Currently Learning
-
-<div align="center">
-
-| Technology | Progress | Focus Area |
-|:-----------|:---------|:-----------|
-| **Next.js** | ████████░░ 80% | Server Components, App Router, SEO |
-| **Advanced TypeScript** | ███████░░░ 70% | Generics, Utility Types, Type Guards |
-| **Testing (Jest)** | ██████░░░░ 60% | Unit Testing, Component Testing |
-| **State Management** | █████░░░░░ 50% | Zustand, Redux Toolkit |
-
 </div>
 
 ---
@@ -86,7 +72,7 @@ const currentProjects = {
 |:--------|:------------|:------|:-----------|:-----|
 | **Salla Merchants** | E-commerce website for merchants built with React & Tailwind | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) | [Live](https://salla-merchants.vercel.app/) |
 | **Portfolio** | Personal portfolio showcasing projects and skills | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) | [Live](https://ae-portfolio.vercel.app/) |
-| **Arabic Localization Helper** | CLI tool for automatic English to Arabic translations | TypeScript, Node.js | [Repo](https://github.com/AhmedEl-hadad/Arabic-Localization-Helper) | NPM Package |
+| **Arabic Localization Helper** | CLI tool for automatic English to Arabic translations | TypeScript, Node.js | [Repo](https://github.com/AhmedEl-hadad/Arabic-Localization-Helper) | [Live](https://github.com/AhmedEl-hadad/Arabic-Localization-Helper) |
 
 </div>
 
@@ -111,8 +97,6 @@ const currentProjects = {
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux" />
 </div>
 
 ### Backend & Tools
@@ -132,8 +116,6 @@ const currentProjects = {
   <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="Jest" />
 </div>
 
 ---
@@ -195,5 +177,5 @@ const currentProjects = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahmed%20%7C%20Last%20updated:%202025&fontSize=12&fontColor=ffff&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=Built%20by%20Ahmed%20%7C%20Last%20updated:%202025&fontSize=12&fontColor=ffff&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" alt="Footer" />
 </div>
