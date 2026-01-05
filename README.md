@@ -82,7 +82,7 @@
 | **🚀 Outcome**      | Sub-second load times and silky smooth interactions at scale.                 |
 
 <div align="right">
-  <a href="https://github.com/AhmedEl-hadad/salla-merchants/"><strong>View Repository ➔</strong></a>
+  <a href="https://github.com/AhmedEl-hadad/Salla-Merchants-E-commerce"><strong>View Repository ➔</strong></a>
 </div>
 
 <br />
