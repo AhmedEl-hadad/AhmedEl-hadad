@@ -42,7 +42,7 @@
 
 | Type                | Details                                                                                           |
 | :------------------ | :------------------------------------------------------------------------------------------------ |
-| **� The Problem**   | Manual translation of large codebases is slow, error-prone, and boring.                           |
+| **🛑 The Problem**  | Manual translation of large codebases is slow, error-prone, and boring.                           |
 | **💡 The Solution** | An AI-driven CLI tool that parses ASTs to safely inject translations without breaking code logic. |
 | **💻 Tech Stack**   | **TypeScript**, **Node.js**, **AST Parsing**, **Gemini AI**                                       |
 | **🚀 Outcome**      | Published NPM Package. Reduced translation time by 90% for RTL support.                           |
