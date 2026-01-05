@@ -1,199 +1,177 @@
 <div align="center">
-  <img src="https://github.com/AhmedEl-hadad/AhmedEl-hadad/blob/main/thumbnail.png?raw=true" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ahmed%20El-Hadad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20bridge%20between%20technical%20logic%20and%20aesthetic%20vibes.&descAlignY=55&descSize=20&theme=dracula" alt="Header" />
 </div>
-
-<h1 align="center">Hello 👋, I'm <strong>Ahmed El-Hadad</strong></h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-end+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+Beautiful+Web+Experiences;Open+to+Collaboration!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-end+Architect;Creative+Technologist;Next.js+%7C+TypeScript+%7C+Three.js;Building+immersiveness+on+the+web" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedEl-hadad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AhmedEl-hadad?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
+<br />
 
 <div align="center">
   <a href="https://github.com/AhmedEl-hadad">
-    <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=radical" height="160"/>
+    <img src="https://komarev.com/ghpvc/?username=AhmedEl-hadad&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Profile Views" />
   </a>
-  <img width="12" />
-  <a href="https://github.com/AhmedEl-hadad">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=radical" height="160"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedEl-hadad&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <a href="https://github.com/AhmedEl-hadad?tab=followers">
+    <img src="https://img.shields.io/github/followers/AhmedEl-hadad?label=Followers&style=flat-square&color=bd93f9&logo=github" alt="GitHub Followers" />
   </a>
 </div>
 
+<br />
+
+## 🏆 Impact & Milestones
+
 <div align="center">
+
+|            🌟 Achievement            | 📝 Details                                                                                                                                                          |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **🥇 Qimma Hackathon Winner (2025)** | Recognized for **"Outstanding Performance"** & Innovative AI Implementation. Created a system that bridges the gap between traditional dev and AI workflows.        |
+|    **🎓 Certified Professional**     | **160-Hour Intensive Program** (Mansoura University) - Graduated with **"Excellent"** grades. Mastered advanced frontend architecture and state management systems. |
+
+</div>
+
+<br />
+
+## 💎 The Showroom
+
+### 🛠️ Arabic Localization Helper
+
+> _Automating the tedious, bridging languages with AI._
+
+| Type                | Details                                                                                           |
+| :------------------ | :------------------------------------------------------------------------------------------------ |
+| **� The Problem**   | Manual translation of large codebases is slow, error-prone, and boring.                           |
+| **💡 The Solution** | An AI-driven CLI tool that parses ASTs to safely inject translations without breaking code logic. |
+| **💻 Tech Stack**   | **TypeScript**, **Node.js**, **AST Parsing**, **Gemini AI**                                       |
+| **🚀 Outcome**      | Published NPM Package. Reduced translation time by 90% for RTL support.                           |
+
+<div align="right">
+  <a href="https://github.com/AhmedEl-hadad/Arabic-Localization-Helper"><strong>View Repository ➔</strong></a>
+</div>
+
+<br />
+
+### 🧩 Interactive 3D Portfolio
+
+> _More than a resume. An experience._
+
+| Type                | Details                                                                          |
+| :------------------ | :------------------------------------------------------------------------------- |
+| **🛑 The Problem**  | Traditional portfolios are static and fail to show creative potential.           |
+| **💡 The Solution** | A gamified, immersive scroll-based experience that tells a story.                |
+| **💻 Tech Stack**   | **React**, **Next.js**, **React Three Fiber**, **Framer Motion**                 |
+| **🚀 Outcome**      | High user engagement and visual storytelling that demonstrates mastery of WebGL. |
+
+<div align="right">
+  <a href="https://github.com/AhmedEl-hadad/AE-Portfolio/"><strong>View Repository ➔</strong></a>
+</div>
+
+<br />
+
+### 🛍️ Salla Merchants (High-Performance E-commerce)
+
+> _Scale, Speed, & Stability._
+
+| Type                | Details                                                                       |
+| :------------------ | :---------------------------------------------------------------------------- |
+| **🛑 The Problem**  | Managing complex state and real-time data for high-traffic merchants.         |
+| **💡 The Solution** | A hyper-optimized architecture using memoization and real-time database sync. |
+| **💻 Tech Stack**   | **React**, **React.memo**, **Supabase**, **Tailwind CSS**                     |
+| **🚀 Outcome**      | Sub-second load times and silky smooth interactions at scale.                 |
+
+<div align="right">
+  <a href="https://github.com/AhmedEl-hadad/salla-merchants/"><strong>View Repository ➔</strong></a>
+</div>
+
+<br />
+
+## 🧬 Skill Proficiency Matrix
+
+<div align="center">
+
+### ⚡ Core Ecosystem
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### 🎨 Creative & Motion
+
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+### 🤖 Next-Gen Workflows
+
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe_Coding-FF4F8B?style=for-the-badge&logo=music&logoColor=white" />
+
+</div>
+
+<br />
+
+## 📊 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Langs" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedEl-hadad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27" alt="Streak" />
+</div>
+
+<div align="center">
+  <br />
   <a href="https://leetcode.com/u/Ahmed_Elhadad/">
-    <img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="400" />
+    <img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode" width="450" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AhmedEl-hadad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
-</div>
+<br />
 
----
+## 👨‍💻 System Configuration
 
-## 🚀 What I'm Working On
+```bash
+user@ahmed-el-hadad:~$ neofetch
 
-<div align="center">
-
-```javascript
-const currentProjects = {
-  primary: "Arabic Localization Helper - CLI tool for Arabic translations",
-  learning: ["Next.js", "Advanced TypeScript Patterns", "Testing with Jest"],
-  exploring: ["State Management (Zustand)", "Server Components", "API Design"]
-};
+> OS: Windows (WSL2)
+> Shell: Zsh
+> Soft Skills:
+  - Time Management....[██████████] 100%
+  - Strategic Planning.[██████████] 100%
+  - Communication......[██████████] 100%
+  - Beard Growth.......[░░░░░░░░░░] 0% (Loading...)
+> Languages:
+  - English (B2 - Professional Working Proficiency)
+  - Arabic (Native)
+  - German (A1 - Loading...)
 ```
 
-</div>
-
----
-
-## 🎓 Currently Learning
-
-<div align="center">
-
-| Technology | Progress | Focus Area |
-|:-----------|:---------|:-----------|
-| **Next.js** | ████████░░ 80% | Server Components, App Router, SEO |
-| **Advanced TypeScript** | ███████░░░ 70% | Generics, Utility Types, Type Guards |
-| **Testing (Jest)** | ██████░░░░ 60% | Unit Testing, Component Testing |
-| **State Management** | █████░░░░░ 50% | Zustand, Redux Toolkit |
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Repository | Demo |
-|:--------|:------------|:------|:-----------|:-----|
-| **Salla Merchants** | E-commerce website for merchants built with React & Tailwind | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/salla-merchants/) | [Live](https://salla-merchants.vercel.app/) |
-| **Portfolio** | Personal portfolio showcasing projects and skills | React, Tailwind | [Repo](https://github.com/AhmedEl-hadad/AE-Portfolio/) | [Live](https://ae-portfolio.vercel.app/) |
-| **Arabic Localization Helper** | CLI tool for automatic English to Arabic translations | TypeScript, Node.js | [Repo](https://github.com/AhmedEl-hadad/Arabic-Localization-Helper) | NPM Package |
-
-</div>
-
----
-
-## 🛠️ Skills & Tools
-
-### Frontend Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux" />
-</div>
-
-### Backend & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="Jest" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedEl-hadad&theme=radical&hide_border=false&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedEl-hadad/AhmedEl-hadad/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📬 Contact & Connect
+<br />
 
 <div align="center">
   <a href="mailto:ahmed1ibahim12@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
-  <img width="8" />
   <a href="https://www.linkedin.com/in/ahmed-elhadad1">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
-  <img width="8" />
   <a href="https://www.facebook.com/share/1A8zw6kimJ/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Facebook" />
   </a>
-  <img width="8" />
   <a href="https://www.instagram.com/ahmed_elhad0d_">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <img width="8" />
-  <a href="https://leetcode.com/u/Ahmed_Elhadad/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode" />
-  </a>
 </div>
 
----
-
-## 🎯 A Bit More About Me
-
-- 🔭 I'm currently building **Arabic Localization Helper** — A command-line tool that automatically translates English text to Arabic in your project files
-- 🌱 Learning and mastering **Next.js & Advanced TypeScript** for building modern, scalable web applications
-- 🤝 Always open to collaborating on React, front-end, or full-stack side projects
-- 💡 Passionate about creating **beautiful, accessible, and performant web experiences**
-- ⚡ Fun fact: I started writing code before I had a beard… still waiting on that beard 🧔🏻
-
----
+<br />
 
 <div align="center">
-  <img src="https://hits.sh/github.com/AhmedEl-hadad.svg?style=for-the-badge&label=Total%20Visits&color=fe428e&labelColor=000000" alt="Visitor Count" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahmed%20%7C%20Last%20updated:%202025&fontSize=12&fontColor=ffff&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahmed&fontSize=20&fontColor=ffff&textBg=false&theme=tokyonight" alt="Footer" />
 </div>
