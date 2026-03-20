@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ahmed&El-Haddad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20bridge%20between%20technical%20logic%20and%20aesthetic%20vibes.&descAlignY=55&descSize=20&theme=dracula" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ahmed&nbspEl-Haddad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20bridge%20between%20technical%20logic%20and%20aesthetic%20vibes.&descAlignY=55&descSize=20&theme=dracula" alt="Header" />
 </div>
 
 <div align="center">
