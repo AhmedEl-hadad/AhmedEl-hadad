@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ahmed%20El-Hadad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20bridge%20between%20technical%20logic%20and%20aesthetic%20vibes.&descAlignY=55&descSize=20&theme=dracula" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=ahmedelhaddad.0&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20bridge%20between%20technical%20logic%20and%20aesthetic%20vibes.&descAlignY=55&descSize=20&theme=dracula" alt="Header" />
 </div>
 
 <div align="center">
@@ -10,12 +10,21 @@
 
 <br />
 
+## ⚡ The Origin Story
+
+> **The Hook:** Most started with a gaming PC. I started coding on a smartphone at 14.
+> **The Struggle:** Spent two years lost in Python & JS, building in silence without a mentor.
+> **The Pivot:** Built my school's first website. Realized code isn't just syntax; it's a tool to build reality.
+> **The Secret:** While others memorize docs, I focus on the Architecture. I am a Senior Solo Engineer blending logic with high-end UI/UX.
+
+<br />
+
 <div align="center">
-  <a href="https://github.com/AhmedEl-hadad">
-    <img src="https://komarev.com/ghpvc/?username=AhmedEl-hadad&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/ahmedelhaddad.0">
+    <img src="https://komarev.com/ghpvc/?username=ahmedelhaddad.0&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://github.com/AhmedEl-hadad?tab=followers">
-    <img src="https://img.shields.io/github/followers/AhmedEl-hadad?label=Followers&style=flat-square&color=bd93f9&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/ahmedelhaddad.0?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmedelhaddad.0?label=Followers&style=flat-square&color=bd93f9&logo=github" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -48,7 +57,7 @@
 | **🚀 Outcome**      | Published NPM Package. Reduced translation time by 90% for RTL support.                           |
 
 <div align="right">
-  <a href="https://github.com/AhmedEl-hadad/Arabic-Localization-Helper"><strong>View Repository ➔</strong></a>
+  <a href="https://github.com/ahmedelhaddad.0/Arabic-Localization-Helper"><strong>View Repository ➔</strong></a>
 </div>
 
 <br />
@@ -65,7 +74,7 @@
 | **🚀 Outcome**      | High user engagement and visual storytelling that demonstrates mastery of WebGL. |
 
 <div align="right">
-  <a href="https://github.com/AhmedEl-hadad/AE-Portfolio/"><strong>View Repository ➔</strong></a>
+  <a href="https://github.com/ahmedelhaddad.0/AE-Portfolio/"><strong>View Repository ➔</strong></a>
 </div>
 
 <br />
@@ -82,7 +91,7 @@
 | **🚀 Outcome**      | Sub-second load times and silky smooth interactions at scale.                 |
 
 <div align="right">
-  <a href="https://github.com/AhmedEl-hadad/Salla-Merchants-E-commerce"><strong>View Repository ➔</strong></a>
+  <a href="https://github.com/ahmedelhaddad.0/Salla-Merchants-E-commerce"><strong>View Repository ➔</strong></a>
 </div>
 
 <br />
@@ -117,19 +126,19 @@
 ## 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEl-hadad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEl-hadad&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelhaddad.0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelhaddad.0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Langs" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedEl-hadad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedelhaddad.0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27" alt="Streak" />
 </div>
 
 <div align="center">
   <br />
-  <a href="https://leetcode.com/u/Ahmed_Elhadad/">
-    <img src="https://leetcard.jacoblin.cool/Ahmed_Elhadad?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode" width="450" />
+  <a href="https://leetcode.com/u/ahmedelhaddad.0/">
+    <img src="https://leetcard.jacoblin.cool/ahmedelhaddad.0?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode" width="450" />
   </a>
 </div>
 
@@ -173,5 +182,5 @@ user@ahmed-el-hadad:~$ neofetch
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ahmed&fontSize=20&fontColor=ffff&textBg=false&theme=tokyonight" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Established%20by%20Haddad%202026&fontSize=20&fontColor=ffff&textBg=false&theme=tokyonight" alt="Footer" />
 </div>
